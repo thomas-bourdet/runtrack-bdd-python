@@ -74,7 +74,7 @@ class salarie:
 
 host = "localhost"
 user = "root"
-password = "root"
+password = "sqllpf1"
 database = "LaPlateforme"
 
 employe1 = salarie(host, user, password, database)
